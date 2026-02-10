@@ -1,19 +1,33 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>ss-2</title>
-    <script type="module" crossorigin src="./assets/index.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index.css">
-  </head>
-  <body>
-    <div id="r3f-root"></div>
-  </body>
-</html>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ss-2</title>
+  <script type="module" crossorigin src="./assets/index.js"></script>
+</head>
 
 <body>
+  <!-- header + WebGL strip -->
+  <header>
+    <div class="header-inner">
+      <!-- optional nav/logo here -->
+      <!-- <div class="SS-logo">Stateside Logo</div> -->
+    </div>
 
+    <!-- R3F Canvas hero inside header -->
+    <div class="r3f-logo" id="r3f-root"></div>
+  </header>
 
- 
+  <!-- rest of page -->
+  <div class="page-body">
+    <section class="content">
+      <h1>Client Demo Page</h1>
+      <p>Other content here below the hero strip.</p>
+    </section>
+  </div>
+
+</body>
+
+</html>

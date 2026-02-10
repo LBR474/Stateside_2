@@ -160,14 +160,14 @@ nav li {
   width: 100% !important;
   height: 100% !important;
   display: block;
-  /* border: 2px green solid; */
+  border: 2px red solid;
 }
 
 .SS-logo {
   width: 100vw;
   height: 6vh;
   padding: 5px;
-  /* border: 2px red solid; */
+  
 
   display: flex;
   align-items: center;

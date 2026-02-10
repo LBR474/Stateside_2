@@ -24,5 +24,5 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true
   },
-  "include": ["src", "ss-2_backup_material/App.tsx", "ss-2_backup_material/App_2.tsx", "ss-2_backup_material/App_3.tsx", "ss-2_backup_material/App_4.tsx"]
+  "include": ["src", "ss-2_backup_material/App.tsx", "ss-2_backup_material/App_2.tsx", "ss-2_backup_material/App_3.tsx", "ss-2_backup_material/App_4.tsx", "ss-2_backup_material/App_5.tsx", "ss-2_backup_material/App_6.tsx", "ss-2_backup_material/App_7.tsx", "ss-2_backup_material/App_8.tsx", "ss-2_backup_material/App_9.tsx", "ss-2_backup_material/Model_only_base.tsx"]
 }
